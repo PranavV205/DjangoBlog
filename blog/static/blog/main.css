@@ -82,3 +82,11 @@ body {
   .account-heading {
     font-size: 2.5rem;
   }
+
+  .btn-lnk {
+    border: none;
+    margin: none;
+    padding: none;
+    color: white;
+    
+  }
